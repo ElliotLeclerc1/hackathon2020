@@ -5,8 +5,7 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 
-#gem file
-Gemfile.lock
+
 
 # idea settings
 .idea/
